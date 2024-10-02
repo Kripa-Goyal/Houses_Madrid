@@ -12,16 +12,16 @@
 2. Created a report that analyzes how different features such as having a pool (`has_pool`), garden (`has_garden`), or being a new development (`is_new_development`)
     affect the average property price and feature that correlates most strongly with higher prices?
    
-Focus Areas: DAX calculations for average, correlation analysis, visual slicing.
+   Focus Areas: DAX calculations for average, correlation analysis, visual slicing.
      
 3. Segmented the property market into categories based on the `house_type_id`. For each category, calculated the average square meter price.
    
-Focus Areas: Segmentation, DAX for conditional metrics, Top N filtering.
+   Focus Areas: Segmentation, DAX for conditional metrics, Top N filtering.
   
 4. Designed a comprehensive dashboard that includes filters for `region`, `is_exterior`, `has_pool`, and `is_new_development`. 
-Incorporated visuals that dynamically adjust to show data such as average price, total listings, and average square meter price.
+   Incorporated visuals that dynamically adjust to show data such as average price, total listings, and average square meter price.
 
-Focus Areas: Interactive reports, dashboard design, slicers.
+   Focus Areas: Interactive reports, dashboard design, slicers.
 
 ## Results
 
